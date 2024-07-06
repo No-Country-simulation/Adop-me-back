@@ -25,6 +25,9 @@ En Adop-Me podras encontrar anuncios de veterinarias, refugios o fundaciones ben
 (https://linkedin.com/in/giselalago)
 
 ### **Tecnologías:** ###
-[HTML, CSS, JavaScript, React, MySQL, Java, Flyay]
+-FrontEnd: [HTML, CSS, JavaScript, React]
+-BackEnd:[Java, MySQL, Flyay]
+-Testing QA- Automation:
+[]
 
 ### **Enlaces importantes:** ###
