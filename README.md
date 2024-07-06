@@ -9,8 +9,7 @@ En Adop-Me podras encontrar anuncios de veterinarias, refugios o fundaciones ben
 **Simon Barrios:** FrontEnd
 (https://www.linkedin.com/in/simon-barrios)
 
-**Joaquin Butera:**
-(https://www.linkedin.com/in/joaquin-butera)
+[**Joaquin Butera:**](https://www.linkedin.com/in/joaquin-butera)
 
 **Martin Dotto:**
 
@@ -25,9 +24,9 @@ En Adop-Me podras encontrar anuncios de veterinarias, refugios o fundaciones ben
 (https://linkedin.com/in/giselalago)
 
 ### **Tecnologías:** ###
--FrontEnd: [HTML, CSS, JavaScript, React]
--BackEnd:[Java, MySQL, Flyay]
--Testing QA- Automation:
-[]
++ FrontEnd: [HTML, CSS, JavaScript, React]
++ BackEnd:[Java, MySQL, Flyay]
++ Testing QA- Automation: []
+  
 
 ### **Enlaces importantes:** ###
