@@ -6,9 +6,9 @@ En Adop-Me podras encontrar anuncios de veterinarias, refugios o fundaciones ben
 
 ### **Colaboradores:** ###
 
-[Simon Barrios] (https://www.linkedin.com/in/simon-barrios) : FrontEnd
+[Simon Barrios](https://www.linkedin.com/in/simon-barrios) : FrontEnd
 
-[Joaquin Butera](https://www.linkedin.com/in/joaquin-butera) :
+[Joaquin Butera](linkedin.com/in/joaquin-butera-b8323020a) :
 
 [Martin Dotto] :
 
@@ -16,7 +16,7 @@ En Adop-Me podras encontrar anuncios de veterinarias, refugios o fundaciones ben
 
 [Carlos Alberto Valencia Mendez] : BackEnd
 
-[Zail Vegas](https://www.linkedin.com/in/zail-vegas) : 
+[Zail Vegas](linkedin.com/in/zail-vegas-padron) : 
 
 [Gisela Lago](https://linkedin.com/in/giselalago) : Tester QA
 
