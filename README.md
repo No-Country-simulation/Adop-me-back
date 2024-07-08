@@ -10,7 +10,7 @@ En Adopt-Me podras encontrar anuncios de veterinarias, refugios o fundaciones be
 
 [Joaquin Butera](https://www.linkedin.com/in/joaquin-butera-b8323020a) :
 
-[Martin Dotto] :
+[Martin Dotto](https://ar.linkedin.com/in/martin-dotto) : FrontEnd 
 
 [Hetmith Hancco Tancayllo] :
 
