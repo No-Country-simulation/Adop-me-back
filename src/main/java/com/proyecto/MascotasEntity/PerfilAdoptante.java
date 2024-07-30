@@ -1,9 +1,9 @@
 package com.proyecto.MascotasEntity;
 
-
+import com.proyecto.usuarios.Usuario;
+import jakarta.persistence.*;
 import lombok.Data;
 
-import javax.persistence.*;
 import java.io.Serializable;
 
 @Data
@@ -12,6 +12,7 @@ import java.io.Serializable;
 public class PerfilAdoptante implements Serializable {
 
     private static final long serialVersionUID = 1L;
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "idperfiladoptante")
@@ -32,7 +33,7 @@ public class PerfilAdoptante implements Serializable {
     @Column(name = "historial_de_adopciones")
     private String historial_de_Adopcion;
 
- @ManyToOne
-    @JoinColumn(name = "idusuarios")
-    private Usuarios usuarios;
+    @ManyToOne
+    @JoinColumn(name = "idusuario", referencedColumnName = "id")
+    private Usuario usuario;
 }

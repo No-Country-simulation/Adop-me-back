@@ -3,8 +3,10 @@ package com.proyecto.MascotasEntity;
 
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
+import com.proyecto.usuarios.Usuario;
+import jakarta.persistence.*;
 import lombok.Data;
-import javax.persistence.*;
+
 import java.io.Serializable;
 import java.util.List;
 
@@ -25,11 +27,11 @@ public class PerfilRefugio implements Serializable {
     @Column(name = "nombre_refugio")
     private String nombre_refugio;
     
-    @Column(name = "Direccion")
-    private String Direccion;
+    @Column(name = "direccion")
+    private String direccion;
     
-    @Column(name = "Telefono")
-    private String Telefono;
+    @Column(name = "telefono")
+    private String telefono;
     
        @Column(name = "emailcontacto")
     private String emailcontacto;
@@ -38,7 +40,7 @@ public class PerfilRefugio implements Serializable {
     private List<Mascotas> mascotas;
     
    @ManyToOne
-    @JoinColumn(name = "idusuarios", referencedColumnName = "idusuarios")
-    private Usuarios idusuario;
+    @JoinColumn(name = "id", referencedColumnName = "id")
+    private Usuario idusuario;
      
 }
